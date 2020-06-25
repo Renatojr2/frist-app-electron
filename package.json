@@ -1,0 +1,16 @@
+{
+  "name": "fotos-information",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Renato Junior",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.5",
+    "image-size": "^0.8.3"
+  }
+}
